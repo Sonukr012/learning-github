@@ -1,0 +1,19 @@
+package com.kodewala.constructors2;
+
+public class Driver1 
+{
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Driver1.main() START "); // log file
+		
+		NotificationService notificationService = new NotificationService();
+		
+		notificationService.sendNotification("sms");
+		notificationService.sendNotification("email");
+		notificationService.sendNotification("other");
+	
+		System.out.println("Driver1.main() END "); // log file
+	}
+		
+}

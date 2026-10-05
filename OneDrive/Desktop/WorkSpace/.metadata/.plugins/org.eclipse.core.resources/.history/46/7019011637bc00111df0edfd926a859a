@@ -1,0 +1,19 @@
+package com.kodewala.constructors7;
+
+public class Product 
+{
+ String name;
+ int price;
+ String productId;
+ 
+  //public Product() {}
+ 
+  public void name(String _name , int _price, String _productId) 
+  {
+	 
+	this.name = _name;
+	this.price = _price;
+	//this.productId = _productId;
+ }
+
+}

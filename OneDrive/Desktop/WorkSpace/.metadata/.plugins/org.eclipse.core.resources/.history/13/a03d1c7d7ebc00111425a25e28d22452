@@ -1,0 +1,19 @@
+package com.kodewala.arrays;
+
+public class Driver1 {
+
+	public static void main(String[] args) {
+		
+		String cities[] = new String [5] ;
+
+				cities[0] = Bang;
+				cities[1] = Bang;
+				cities[2] = Bang;
+				cities[3] = Bang;
+				cities[4] = Bang;
+
+				System.out.println(cities[3]);
+	}
+	
+
+}

@@ -1,0 +1,10 @@
+package com.kodewala.constructors7;
+
+public class Electronic {
+	
+	public Electronic(String _name , int _price , String _productId) {
+		
+		
+	}
+
+}

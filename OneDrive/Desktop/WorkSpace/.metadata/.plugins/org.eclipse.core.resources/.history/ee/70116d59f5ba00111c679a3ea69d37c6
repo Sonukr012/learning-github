@@ -1,0 +1,16 @@
+package com.kodewala.constructors;
+
+public class AccountHolder {
+
+	public static void main(String[] args) {
+		
+		int amount;
+		String account;
+		String name;
+		String phoneNumber;
+		
+		
+
+	}
+
+}

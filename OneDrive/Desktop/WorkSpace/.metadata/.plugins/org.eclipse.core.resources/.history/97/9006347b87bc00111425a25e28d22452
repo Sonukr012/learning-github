@@ -1,0 +1,20 @@
+package com.kodewala.loop1;
+
+public class SBIDriver {
+	public static void main(String[] args) {
+		SBIBankCastomer[] sbi =
+			{
+				new SBIBankCastomer("Rahul", 1500, "9876543210"),
+	            new SBIBankCastomer("Amit", 3500, "9876543211"),
+	            new SBIBankCastomer("Neha", 1200, "9876543212"),
+	            new SBIBankCastomer("Rohit", 5000, "9876543213"),
+	            new SBIBankCastomer("Priya", 1800, "9876543214")
+			};
+		for(int i=0; i<sbi.length; i++) {
+			 if (SBIBankCastomer[i].accBalance < 2000) {
+	                System.out.println("SBIBankCastomer: " + SBIBankCastomer[i].name);
+	                System.out.println("accBalance       : " + SBIBankCastomer[i].accBalance);
+	                System.out.println();
+		}
+	}
+}}

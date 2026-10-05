@@ -1,0 +1,14 @@
+package com.kodewala.constructors3;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		
+		// In case i want to create an object of user class?
+		
+		User user = new User("sdad" , "USE421114" , "14124412");
+		
+
+	}
+
+}

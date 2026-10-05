@@ -1,0 +1,21 @@
+package com.kodewala.constructors1;
+
+import com.kodewala.constructorss1.Medicine;
+
+public class Bill {
+	public static void main(String[] args) 
+	{
+		Medcine acc = new Medcine( ); //
+		System.out.println(acc.productName + " " +acc.price + " " + acc.description + " " + acc.quantity);
+		
+		
+		Medcine acc1 = new Medcine("Dolo" , 100 ,"Fever" , 100);
+		System.out.println(acc1.productName + " " +acc1.price + " " + acc1.description + " " + acc1.quantity);
+		
+		
+		
+		
+	    Medcine acc2 = new Medcine("Dolo" , "Fever" );
+	    System.out.println(acc2.productName + " "+ acc2.description );
+}
+}

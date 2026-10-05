@@ -1,0 +1,20 @@
+package com.kodewala.constructors;
+
+public class Student {
+  
+	String name;
+	String Class;
+	int rollNo;
+	int age;
+	
+	Student(String _name, String _Class, int _rollNo, int _age)
+	{
+		this.name = name;
+		this.Class =Class;
+		this.rollNo =rollNo;
+		this.age =age;
+		
+	}
+	
+	
+}

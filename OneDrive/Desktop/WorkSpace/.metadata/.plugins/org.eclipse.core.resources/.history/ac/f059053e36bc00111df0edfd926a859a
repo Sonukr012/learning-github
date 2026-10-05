@@ -1,0 +1,8 @@
+package com.kodewala.constructors7;
+
+public class ElectronicProduct extends Product
+{
+  int warranty;
+  public ElectroincProduct(String _name ,int _price , String _productId , int _warranty);
+	}
+}

@@ -1,0 +1,13 @@
+package com.kodewala.constructors;
+
+public class Drive1 {
+
+	Student new1 = new Student("Sonu kumar" , "Four" , 01 , 20);
+	
+	Student new2 = new Student("Golu kumar" , "Four" , 02 , 22);
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,17 @@
+package com.kodewala.constructors;
+
+import com.kodewala.constructors.AccountHolder;
+
+public class Drives 
+{
+  public static void main(String [] args);
+  
+  {
+	  // int amount = 200
+	  // type value = value;
+	  AccountHolder user1 = new AccountHolder(23322 , "65758758" , "Golu" , "78786867988");
+	  AccountHolder user2 = new AccountHolder(3322 , "4758758" , "Sonu" , "7829393388");
+  }
+  
+  
+}

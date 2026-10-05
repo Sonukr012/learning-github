@@ -1,0 +1,29 @@
+package com.kodewala.arrays;
+
+public class Driver {
+	
+	// create an array which will hold 5 int
+	public static void main(String [] arg)
+	
+	{
+		int productIds[] = new int[5]; // --> creating an arrays
+		
+		// add an elements
+		
+		productIds[0] = 100;
+		productIds[1] = 20;
+		productIds[2] = 450;
+		productIds[3] = 120;
+		productIds[4] = 43;
+		
+		System.out.println(produc
+		
+		
+		
+	}
+	
+	
+	
+	
+
+}

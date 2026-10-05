@@ -1,0 +1,17 @@
+package com.kodewala.loop3;
+
+public class Driver2 {
+    public static void main(String[] args) {
+    	// 1000 cites
+    	
+    	String[] cities = {"Bangalore", "Mumbai", "Delhi", "Kolkata", "Chennai",
+    		    "Hyderabad", "Pune", "Bangalore", "Patna", "Mumbai",
+    		    "Mumbai", "Surat", "Kolkata", "Bhopal", "Bangalore",
+    		    "Nagpur", "Mumbai", "Bangalore", "Kolkata", "Mysore"};
+     
+    	for(int index=0; index < cities.length; index++) {
+    		 int currentcities  = number[index];
+    	}
+    }
+    
+}

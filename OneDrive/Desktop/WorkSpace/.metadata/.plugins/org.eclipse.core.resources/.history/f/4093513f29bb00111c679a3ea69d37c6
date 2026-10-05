@@ -1,0 +1,19 @@
+package com.kodewala.constructorss1;
+
+public class Bill {
+	public static void main(String[] args) 
+	{
+		Medicine acc = new Medicine( ); //
+		System.out.println(acc.productName + " " +acc.price + " " + acc.description + " " + acc.quantity);
+		
+		
+		Medicine acc1 = new Medicine("Dolo" , 100 ,"Fever" , 100);
+		System.out.println(acc1.productName + " " +acc1.price + " " + acc1.description + " " + acc1.quantity);
+		
+		
+		
+		
+	    Medicine acc2 = new Medicine("Dolo" , "Fever" );
+	    System.out.println(acc2.productName + " "+ acc2.description );
+}
+}

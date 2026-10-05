@@ -1,0 +1,17 @@
+package com.kodewala.constructors7;
+
+public class Driver {
+	
+	public static void main(String [] args) {
+		
+		Electronic electronic = new Electronic("Samsung" , 1800, "C1223");
+		
+		System.out.println(electronic.name);
+		System.out.println(electronic.price);
+		System.out.println(electronic.productId);
+		
+		
+		
+	}
+
+}

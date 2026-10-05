@@ -1,0 +1,12 @@
+package com.kodewala.constructors4;
+
+import com.kodewala.constructors3.User;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		
+		User user = new User("sdad" , "USE421114" , "14124412");
+	}
+
+}

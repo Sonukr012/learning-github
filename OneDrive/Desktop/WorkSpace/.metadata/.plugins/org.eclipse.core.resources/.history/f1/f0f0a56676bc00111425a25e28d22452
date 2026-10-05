@@ -1,0 +1,16 @@
+package com.kodewala.constructors7;
+
+public class Drvie {
+
+	public static void main(String[] args) {
+		
+  Electronicproduct electronicproduct = new Electronicproduct("Ipone18", 1313130, 2);
+	
+	System.out.println(electronicproduct.name);
+	System.out.println(electronicproduct.price);
+	
+	//System.out.println(electronicproduct.productId);
+	System.out.println(electronicproduct.warranty);
+	}
+
+}

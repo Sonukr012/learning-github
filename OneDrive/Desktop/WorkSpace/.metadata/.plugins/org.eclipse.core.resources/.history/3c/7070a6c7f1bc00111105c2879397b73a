@@ -1,0 +1,14 @@
+package com.kodewala.control.flow1;
+
+public class TripPlanner {
+   
+	public String suggestPlan(String src, String dest , int budget) 
+	{
+		if (budget <= 1000)
+		{
+			System.out.println("You can Be in home ONLY!!! ");
+			else if (budget > 1000 && budget <= 3000)
+		}
+		
+	}
+}

@@ -1,0 +1,16 @@
+package com.kodewala.constructors7;
+
+public class Driver {
+
+		public static void main(String[] args) {
+			
+	  Electronic electronic = new Electronic("Ipone18", 1313130, "C8858778" , 2);
+		
+		System.out.println(electronic.name);
+		
+		System.out.println(electronic.warranty);
+		}
+
+	}
+
+

@@ -1,0 +1,12 @@
+package com.kodewala.arrays;
+
+public class Driver1 {
+
+	public static void main(String[] args) {
+		
+		String cities[] = new int [5] 
+
+				cities[0] = Bang;
+	}
+
+}

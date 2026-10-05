@@ -1,0 +1,15 @@
+package com.kodewala.constructors7;
+
+public class Electronicproduct {
+
+	//public static void main(String[] args) {
+		int warranty;
+		  public  void Electronicproduct(String _name ,int _price , int _warranty) {
+
+			  super(_name, _price );
+			
+			  
+			  this.warranty = _warranty;
+	}
+
+}

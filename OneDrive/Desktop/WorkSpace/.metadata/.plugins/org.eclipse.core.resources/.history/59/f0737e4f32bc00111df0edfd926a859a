@@ -1,0 +1,10 @@
+package com.kodewala.constructors7;
+
+public class ElectronicProduct extends Product
+{
+ 
+	public ElectronicProduct(String _name, int _price, String _producctId)
+	{
+		super(name, price, productId);
+	}
+}

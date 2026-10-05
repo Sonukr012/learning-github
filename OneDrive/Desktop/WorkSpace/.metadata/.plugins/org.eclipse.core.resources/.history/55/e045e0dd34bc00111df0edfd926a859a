@@ -1,0 +1,10 @@
+package com.kodewala.constructors7;
+
+public class Drvie {
+	
+	public static void main(String[] args) {
+		
+		ElectronicProduct electronicProduct = new ElectronicProduct("Ipone18", 1313130, "PS1323", 2);
+	}
+
+}

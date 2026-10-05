@@ -1,0 +1,16 @@
+package com.kodewala.arrays;
+
+public class Driver {
+	
+	// create an array which will hold 5 int
+	
+	int productIds[] = new int[5]; // --> creating an arrays
+	
+	// add an elements
+	
+	productIds[0] = 100;
+	
+	
+	
+
+}
